@@ -1,4 +1,4 @@
-# 【PortSwigger】Web-Security-Academy_Labs 题解
+# Web Security Academy Labs 题解
 
 目录：
 
